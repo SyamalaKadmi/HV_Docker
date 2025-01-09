@@ -103,6 +103,8 @@ Create a `Dockerfile` The Dockerfile to build an Nginx-based Docker image, servi
       ![DockerTag&Push](Images/DockerTag&Push.png)
    Verify the image is pushed to the ECR repository
       ![DockerPushVerification](Images/DockerPushVerification.png)
+
+   Link to the ECR repository -- 975050024946.dkr.ecr.us-east-1.amazonaws.com/sk-docker-nginx 
    
 ---
 
